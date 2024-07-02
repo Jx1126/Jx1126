@@ -32,7 +32,7 @@ I am currently pursuing a Computer Science course provided by the University of 
 <br>
 
 <h2 align="center">
-  Github Status
+  GitHub Status
 </h2>
 
 <div align="center">
