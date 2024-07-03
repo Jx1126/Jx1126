@@ -45,7 +45,7 @@ I am currently pursuing a Computer Science course provided by the University of 
   GitHub Trophies
 </h2>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jx1126&theme=radical&no-frame=false&no-bg=true&margin-w=4"></img>
+  <img src="https://github-profile-trophy.vercel.app/?username=jx1126&theme=onedark&no-frame=true"></img>
 </div>
 
 
