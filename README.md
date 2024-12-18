@@ -30,7 +30,7 @@ I am currently pursuing a Computer Science course provided by the University of 
 </h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jx1126&theme=dark" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jx1126&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <br>
