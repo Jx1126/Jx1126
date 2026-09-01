@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋 Hi, I'm [Wong Jin Xuan](https://wong-jin-xuan.vercel.app/)
-🎓 *Computer Science Student @ Singapore Institute of Management (University of London)*  
+🎓 *First Class Honour Computer Science Graduate @ University of London*  
 🌏 *Based in Singapore | Malaysian National*  
 
 </div>
@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-- 📚 Pursuing **BSc (Honours) in Computer Science** — *on track for First-Class Honours (81% average)*  
+- 📚 Pursued **BSc (Honours) in Computer Science** — *First-Class Honours (82% average)*  
 - 💻 Experienced in building **full-stack web & mobile apps** using modern frameworks  
 - ⚙️ Interested in **scalable backend systems**, **UI/UX**, and **real-time data applications**  
 
